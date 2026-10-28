@@ -3,7 +3,7 @@ window.CONFIG = {
   // Texto da data da votação.
   DATA: 'Domingo, 25 de outubro · 2º turno · das 8h às 17h',
   // WhatsApp e nome de quem organiza (DDD + número, só dígitos). Deixe vazio para não exibir.
-  CONTATO: '81996189993',
+  CONTATO: '',
   CONTATO_NOME: 'Ricardo Rodrigues',
   // Código do site no GitHub (link do "Feito por" no rodapé).
   REPOSITORIO: 'https://github.com/rsilveirafh/carona-solidaria',
