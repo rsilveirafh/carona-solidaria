@@ -20,7 +20,8 @@ Muitos idosos da Vila de Ponta Negra (Natal/RN) deixaram de votar no 1º turno p
 | 23/10/2026 (madrugada) | As três cidades viram **um site único** em `caronasolidaria.github.io`, com escolha de cidade (`?cidade=natal`, `?cidade=recife`, `?cidade=jp`) e uma planilha por cidade. Os endereços de Recife e João Pessoa passam a só redirecionar, levando junto o cadastro de motorista guardado no celular. Cards de divulgação para stories. |
 | 25/10/2026 | 2º turno. Dia das caronas, das 8h às 17h. |
 | 26/10/2026, 18h | Dados apagados automaticamente nas três planilhas. A partir daí o script não aceita mais pedidos. |
-| 27/10/2026 | Encerramento: as organizações `caronasolidaria-recife`, `caronasolidaria-jp` e `caronasolidaria` foram excluídas do GitHub, e este repositório foi transferido para `rsilveirafh/carona-solidaria`, sem GitHub Pages (o site não está mais no ar). Cards de agradecimento. |
+| 27/10/2026 | Encerramento: este repositório foi transferido para `rsilveirafh/carona-solidaria`, sem GitHub Pages (o site não está mais no ar). Cards de agradecimento. |
+| 28/10/2026 | As organizações `caronasolidaria-recife`, `caronasolidaria-jp` e `caronasolidaria` foram excluídas do GitHub. |
 
 ## Números finais
 
@@ -37,7 +38,7 @@ Nenhuma carona foi devolvida para a lista depois de assumida. O número de caron
 
 ## Endereços e repositórios
 
-Tudo isto deixou de existir em 27/10/2026:
+Tudo isto deixou de existir entre 27 e 28/10/2026:
 
 | Antes | Papel | Destino |
 |---|---|---|
