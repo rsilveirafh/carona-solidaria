@@ -6,7 +6,7 @@ window.CONFIG = {
   CONTATO: '81996189993',
   CONTATO_NOME: 'Ricardo Rodrigues',
   // Código do site no GitHub (link do "Feito por" no rodapé).
-  REPOSITORIO: 'https://github.com/caronasolidaria/caronasolidaria.github.io',
+  REPOSITORIO: 'https://github.com/rsilveirafh/carona-solidaria',
   // Quando os dados são apagados (igual a APAGAR_EM no Code.gs).
   APAGAR_ATE: '26/10/2026, às 18h',
 
